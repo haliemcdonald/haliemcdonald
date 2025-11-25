@@ -1,9 +1,21 @@
-## Hi there 👋
+# Hi, I'm Halie 👋
+
+I am a web design & development student learning how to build clean, responsive, and user-friendly websites. 
+
+## 📚 What I’m currently learning
+
+- Building accessible, responsive layouts
+- Writing cleaner, more organized code
+- Improving user experience through better interface design
+
+## 📫 Get in Touch
+
+- Email: halienmc9@gmail.com 
+- LinkedIn: [Halie McDonald](www.linkedin.com/in/halie-mcdonald-b8ab45298)  
+- Portfolio: Coming soon! ✨
 
 <!--
 **haliemcdonald/haliemcdonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
