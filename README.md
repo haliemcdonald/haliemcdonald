@@ -11,7 +11,7 @@ I am a web design & development student learning how to build clean, responsive,
 ## 📫 Get in Touch
 
 - Email: halienmc9@gmail.com 
-- LinkedIn: [Halie McDonald](www.linkedin.com/in/halie-mcdonald-b8ab45298)  
+- LinkedIn: [Halie McDonald](www.linkedin.com/in/halie-mcdonald)  
 - Portfolio: Coming soon! ✨
 
 <!--
