@@ -12,7 +12,7 @@ I am a web design & development student learning how to build clean, responsive,
 
 - Email: halienmc9@gmail.com 
 - LinkedIn: [Halie McDonald](https://www.linkedin.com/in/halie-mcdonald)  
-- Portfolio: Coming soon! ✨
+- Portfolio: hmcdonald.ca
 
 <!--
 **haliemcdonald/haliemcdonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
